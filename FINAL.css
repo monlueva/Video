@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  width: 600px;
+  
+  background-color: #bcffd7;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
